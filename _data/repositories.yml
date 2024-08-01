@@ -1,14 +1,18 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - juanmagdev
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - juanmagdev/PeopleRecognition/
+  - juanmagdev/Robotica
+  - juanmagdev/WuolahAddFree
+  - juanmagdev/Analisis-Numerico-Practicas
+  - juanmagdev/Practicas-Modelos-de-la-Computacion
+  - juanmagdev/Practicas-SII
+  - juanmagdev/Resumen-Inferencia
+  - juanmagdev/Practicas-Metodos-Numericos-II
+  - juanmagdev/Linguify
+  - juanmagdev/gifExpertApp
+  - juanmagdev/CatsApp
+
