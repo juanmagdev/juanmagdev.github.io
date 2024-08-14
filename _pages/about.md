@@ -6,7 +6,7 @@ subtitle: Computer Science | Mathematics
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: me.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p><a href="mailto:me@juanmagd.dev">✉️ me@juanmagd.dev</a></p>
