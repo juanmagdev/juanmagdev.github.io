@@ -19,19 +19,19 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi 👋! I'm Juanma. I am currently finishing my studies in [Universidad de Málaga](https://www.uma.es). I have graduated with a Bachelor's degree in Computer Science and am completing another Bachelor's degree in Mathematics. While studying, I worked as a Salesforce Developer at [Freepik](https://www.freepik.com) for about 9 months on a part-time basis. I decided to leave the job to focus on my university studies and to seek a position more centered on deep mathematical areas.
+Hello 👋! I’m Juanma. I am currently finishing my studies at the [Universidad de Málaga](https://www.uma.es), where I have already earned a Bachelor’s degree in Computer Science and am now finishing another Bachelor’s degree in Mathematics. I am also studying for the C1 Cambridge English certification while writing a scientific article based on my Bachelor’s thesis.
 
-Two years ago, I continued my studies in [Uninversidade Federal Fluminenses](https://www.uff.br/), Rio de Janeiro, Brazil 🇧🇷. This experience was amazing and opened my eyes to traveling around the world. Now speak and understand Portuguese!.
+I began my studies in 2019, and in 2022, I continued my academic journey at [Uninversidade Federal Fluminenses](https://www.uff.br/) in [Rio de Janeiro, Brazil](https://www.google.es/maps/place/R%C3%ADo+de+Janeiro,+Estado+de+R%C3%ADo+de+Janeiro,+Brasil/@-22.9137295,-43.6107877,11z/data=!3m1!4b1!4m6!3m5!1s0x9bde559108a05b:0x50dc426c672fd24e!8m2!3d-22.9068467!4d-43.1728965!16zL20vMDZnbXI?hl=es&entry=ttu) 🇧🇷. This experience not only enhanced my academic background but also ignited my passion for traveling. During this time, I also became fluent in Portuguese.
 
-I love Linux and the philosophy behind it. I've been using Linux for about 4 years, and the terminal has become my best friend 😊. I also love going out and taking aerial shots with my drone.
+In 2023, I started working as a part-time Salesforce Developer at [Freepik](https://freepik.com), where I worked for about 9 months. However, I decided to leave the job to focus more on my studies and to seek a position that aligns more closely with deep mathematical areas.
+
+I am passionate about Linux and have been using it for about 4 years. The terminal has become my best friend 😊, and I strongly resonate with the philosophy behind Linux. In my free time, I enjoy going out and capturing aerial shots with my drone.
 
 I spend a lot of time thinking about:
 
-- Artificial intelligence and machine learning.
-- Data analysis.
-- GNU/Linux.
+    Artificial intelligence and machine learning.
+    Data analysis.
+    GNU/Linux.
 
-Currently, I am studying to obtain a C1 Cambridge English certification while writing a scientific article based on my Bachelor's thesis.
-
-This site doesn't have much to offer yet, besides a link to my [GitHub profile](https://github.com/juanmagdev) where you can find projects I've worked on in the past. I also plan to start writing blog posts about topics that interest me in the future.
+This site doesn’t have much to offer yet, except for a link to my [GitHub profile](https://github.com/juanmagdev) where you can explore some of the projects I’ve worked on in the past. In the future, I plan to start writing blog posts on topics that interest me.
 
