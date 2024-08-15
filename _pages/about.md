@@ -9,9 +9,9 @@ profile:
   image: me.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p><a href="mailto:me@juanmagd.dev">✉️ me@juanmagd.dev</a></p>
-    <p><a href="tel:+34615011113">📞 +34 615 01 11 13</a></p>
-    <p><a href="https://www.google.com/maps/place/M%C3%A1laga/@36.7183199,-4.7782104,10z/data=!3m1!4b1!4m6!3m5!1s0xd7259c44fdb212d:0x6025dc92c9ca32cf!8m2!3d36.7178196!4d-4.425557!16s%2Fg%2F11b7c714d1?entry=ttu" target="_blank">🌴 Málaga, Spain</a></p>
+    <p>✉️ <a href="mailto:me@juanmagd.dev">me@juanmagd.dev</a></p>
+    <p>📞 <a href="tel:+34615011113">+34 615 01 11 13</a></p>
+    <p>🌴 <a href="https://www.google.com/maps/place/M%C3%A1laga/@36.7183199,-4.7782104,10z/data=!3m1!4b1!4m6!3m5!1s0xd7259c44fdb212d:0x6025dc92c9ca32cf!8m2!3d36.7178196!4d-4.425557!16s%2Fg%2F11b7c714d1?entry=ttu" target="_blank">Málaga, Spain</a></p>
 
 
 news: true # includes a list of news items
@@ -32,5 +32,5 @@ I spend a lot of time thinking about:
  - Data analysis.
  - GNU/Linux.
 
-This site doesn’t have much to offer yet, except for a link to my [GitHub profile](https://github.com/juanmagdev) where you can explore some of the projects I’ve worked on in the past. In the future, I plan to start writing blog posts on topics that interest me. "In addition, I love taking shots with my drone, so this site could have a section featuring my aerial photos.
+This site doesn’t have much to offer yet, except for a link to my [GitHub profile](https://github.com/juanmagdev) where you can explore some of the projects I’ve worked on in the past. In the future, I plan to start writing blog posts on topics that interest me.
 
