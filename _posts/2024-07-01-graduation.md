@@ -3,7 +3,7 @@ layout: post
 title: My Graduation Day. Finishing My Studies.
 date: 2024-07-01 21:01:00
 description: On July 1st, I celebrated my graduation—a day full of excitement and pride, where my classmates and I finally saw the hard work of the past five years pay off.
-tag: academics
+tag: travel
 thumbnail: assets/img/1-graduacion-0.jpeg
 ---
 
