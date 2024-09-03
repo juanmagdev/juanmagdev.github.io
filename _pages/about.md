@@ -32,5 +32,5 @@ I spend a lot of time thinking about:
  - Data analysis.
  - GNU/Linux.
 
-This site doesn’t have much to offer yet, except for a link to my [GitHub profile](https://github.com/juanmagdev) where you can explore some of the projects I’ve worked on in the past. In the future, I plan to start writing blog posts on topics that interest me.
+This site doesn’t have much to offer yet, except for a link to my [CV](https://juanmagd.dev/assets/pdf/CV.pdf) or my [GitHub profile](https://github.com/juanmagdev) where you can explore some of the projects I’ve worked on in the past. In the future, I plan to start writing blog posts on topics that interest me.
 
