@@ -21,7 +21,7 @@ social: true # includes social icons at the bottom of the page
 
 Hello 👋! I’m Juanma. I am currently finishing my studies at the [Universidad de Málaga](https://www.uma.es), where I have already earned a Bachelor’s degree in Computer Science and am now finishing another Bachelor’s degree in Mathematics. I am also studying for the C1 Cambridge English certification while writing a scientific article based on my Bachelor’s thesis.
 
-I began my studies in 2019, and in 2022, I continued my academic journey at [Uninversidade Federal Fluminenses](https://www.uff.br/) in Rio de Janeiro, Brazil 🇧🇷. This experience not only enhanced my academic background but also ignited my passion for traveling. During this time, I also became fluent in Portuguese.
+I began my studies in 2019, and in 2022, I continued my academic journey at [Uninversidade Federal Fluminense](https://www.uff.br/) in Rio de Janeiro, Brazil 🇧🇷. This experience not only enhanced my academic background but also ignited my passion for traveling. During this time, I also became fluent in Portuguese.
 
 In 2023, I started working as a part-time Salesforce Developer at [Freepik](https://freepik.com), where I worked for about 9 months. However, I decided to leave the job to focus more on my studies and to seek a position that aligns more closely with deep mathematical areas.
 
