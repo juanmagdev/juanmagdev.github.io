@@ -107,11 +107,12 @@
       "level": "",
       "icon": "fa-solid fa-laptop-code",
       "keywords": [
-        "Python (numpy, matplotlib, pyautogui, optimize, deap)",
+        "Python (numpy, matplotlib, pyautogui, optimize, deap, pytorch)",
         "Java",
         "Apex",
         "C",
-        "C++"
+        "C++",
+        "R"
       ]
     },
     {
@@ -126,7 +127,8 @@
         "Jira",
         "Tableau",
         "Power BI",
-        "Excel"
+        "Excel",
+        "SCRUM"
       ]
     },
     {
@@ -171,7 +173,7 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Computer Science",
       "icon": "fa-solid fa-tag",
       "keywords": [
         "Data Science",
