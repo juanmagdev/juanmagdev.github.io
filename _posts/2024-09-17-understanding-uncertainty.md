@@ -53,3 +53,59 @@ $$P(A|B) = P(A)$$ and $$P(B) > 0.$$
 Recall that 
 $$P(A|B) = \frac{P(A \cap B)}{P(B)}$$
 provided that $$P(B) > 0.$$
+
+‎
+‎ 
+
+## 2. Aleatories Variables
+**Definition 2.1.1.** Let $$(\Omega, \mathcal{A})$$ be a probabilizable space. A function $$X : \Omega \longrightarrow \mathbb{R}$$ is called a random variable if $$X^{-1}(B) \in \mathcal{A}$$ for every $$B \in \mathcal{B}_1$$.
+
+**Definition 2.1.2.** Let $$(\Omega, \mathcal{A})$$ be a probabilizable space. A function $$X : \Omega \longrightarrow \mathbb{R}$$ is called a random variable if $$X^{-1}((-\infty, a]) \in \mathcal{A}$$ for every $$a \in \mathbb{R}$$.
+
+**Theorem 2.2.1.** Let $$X$$ and $$Y$$ be random variables defined on $$(\Omega, \mathcal{A})$. Then
+1. $$A = \{\omega \in \Omega : X(\omega) < Y(\omega)\} \in \mathcal{A}$$.
+2. $$B = \{\omega \in \Omega : X(\omega) \leq Y(\omega)\} \in \mathcal{A}$$.
+3. $$C = \{\omega \in \Omega : X(\omega) = Y(\omega)\} \in \mathcal{A}$$.
+
+
+**Proposition 2.2.2.** Let $$X$$ and $$Y$$ be random variables defined on $$(\Omega, \mathcal{A})$$. Then:
+1. Given $$a \in \mathbb{R}$$, we have that $$Z = aX$$ is a random variable.
+2. $$X + Y$$ is a random variable.
+3. $$X^2$$ is a random variable.
+4. $$|X|$$ is a random variable.
+5. $$X \cdot Y$$ is a random variable.
+
+**Theorem 2.2.3.** Let $$X$$ be a random variable defined on $$(\Omega, \mathcal{A})$$. Let $$g: \mathbb{R} \longrightarrow \mathbb{R}$$ be a function such that $$g^{-1}(B) \in \mathbb{B}_1$$ for all $$B \in \mathbb{B}_1$$. Then $$Y = g(X)$$ is also a random variable defined on $$(\Omega, \mathcal{A})$$.
+
+
+‎
+‎ 
+
+## 3. Probability Distribuition Function
+**Definition 3.1.1.** A function $$F: \mathbb{R} \longrightarrow [0,1]$$ is called a distribution function if it satisfies:
+1. $$F$$ is non-decreasing.
+2. $$F$$ is right-continuous, that is,
+    $$
+    \lim_{x \rightarrow a^{+}} F(x) = F(a) \text{ for all } a \in \mathbb{R}
+    $$.
+3. 
+    $$
+    \lim_{x \rightarrow -\infty} F(x) = 0 \quad \text{and} \quad \lim_{x \rightarrow +\infty} F(x) = 1
+    $$.
+
+
+**Proposition 3.1.2.** Let $$P$$ be a probability measure defined on $$\left(\mathbb{R}, \mathbb{B}_1\right)$$. The function $$F: \mathbb{R} \longrightarrow [0,1]$$ given by $$F(x) = P((-\infty, x])$$ for all $$x \in \mathbb{R}$$ is a probability distribution.
+
+
+**Definition 3.2.1.** Let $$X$$ be a random variable defined on $$(\Omega, \mathcal{A}, P)$$, let $$P_X$$ be the probability induced by $$X$$ on $$\left(\mathbb{R}, \mathbb{B}_1\right)$$, and let $$F_X$$ be the probability distribution function associated with $$P_X$$. We define:
+- The set of jump points of $$F_X$$ as
+$$
+D_X = \left\{ x \in \mathbb{R} : P_X(\{x\}) > 0 \right\}
+$$
+- The support of $$X$$ (or the support of the distribution) as
+$$
+S_X = \{ x \in \mathbb{R} : F(x + \varepsilon) - F(x - \varepsilon) > 0 \}
+$$
+for all $$\varepsilon > 0$$.
+
+**Theorem 3.2.2.** The set $$D_X$$ is at most countably infinite.
