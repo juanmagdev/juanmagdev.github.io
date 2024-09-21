@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Friendly Guide to Understanding Uncertainty.(In progress)
+title: A friendly guide to understanding uncertainty. (In progress)
 date: 2024-09-17 16:15:00
 description: In this post, I’ll give you a simple, easy-to-follow summary of the key ideas from two important probability courses. No need to worry about complicated proofs—just clear explanations of the essentials. While some basic math knowledge will be helpful, this guide is all about making the main concepts relatable. 
 tag: math
@@ -109,3 +109,6 @@ $$
 for all $$\varepsilon > 0$$.
 
 **Theorem 3.2.2.** The set $$D_X$$ is at most countably infinite.
+
+
+## 4. Aleatories Variables Classification
