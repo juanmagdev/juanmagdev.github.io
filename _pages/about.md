@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello 👋! I’m Juanma. I am currently finishing my studies at the [Universidad de Málaga](https://www.uma.es), where I have already earned a Bachelor’s degree in Computer Science and am now finishing another Bachelor’s degree in Mathematics. I am also studying for the C1 Cambridge English certification while writing a scientific article based on my Bachelor’s thesis.
+Hello 👋! I’m Juanma. I have graduated from the [Universidad de Málaga](https://www.uma.es) with a Bachelor’s degree in Computer Science and another Bachelor’s degree in Mathematics. I am currently enrolled in a cybersecurity course at the Google Safety Engineering Center (GSEC) in Málaga, specifically the VI University Expert in Reverse Engineering and Malware Intelligence.
 
 I began my studies in 2019, and in 2022, I continued my academic journey at [Uninversidade Federal Fluminense](https://www.uff.br/) in Rio de Janeiro, Brazil 🇧🇷. This experience not only enhanced my academic background but also ignited my passion for traveling. During this time, I also became fluent in Portuguese.
 
@@ -30,7 +30,7 @@ I am passionate about Linux and have been using it for about 4 years. The termin
 I spend a lot of time thinking about:
  - Artificial intelligence and machine learning.
  - Data analysis.
- - GNU/Linux.
+ - Cybersecurity
 
 This site doesn’t have much to offer yet, except for a link to my [CV](https://juanmagd.dev/assets/pdf/CV.pdf) or my [GitHub profile](https://github.com/juanmagdev) where you can explore some of the projects I’ve worked on in the past. In the future, I plan to start writing blog posts on topics that interest me.
 
