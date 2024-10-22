@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello 👋! I’m Juanma. I have graduated from the [Universidad de Málaga](https://www.uma.es) with a Bachelor’s degree in Computer Science and another Bachelor’s degree in Mathematics. I am currently enrolled in a cybersecurity course at the [Google Safety Engineering Center (GSEC)](https://safety.google/intl/es_es/engineering-center-malaga/) in Málaga, specifically the XI University Expert in Reverse Engineering and Malware Intelligence.
+Hello 👋! I’m Juanma. I have graduated from the [Universidad de Málaga](https://www.uma.es) with a Bachelor’s degree in Computer Science and another Bachelor’s degree in Mathematics. I am currently enrolled in a cybersecurity course at the [Google Safety Engineering Center (GSEC)](https://safety.google/intl/es_es/engineering-center-malaga/) in Málaga, specifically the VI University Expert in Reverse Engineering and Malware Intelligence.
 
 I began my studies in 2019, and in 2022, I continued my academic journey at [Uninversidade Federal Fluminense](https://www.uff.br/) in Rio de Janeiro, Brazil 🇧🇷. This experience not only enhanced my academic background but also ignited my passion for traveling. During this time, I also became fluent in Portuguese.
 
