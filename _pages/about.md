@@ -14,7 +14,7 @@ profile:
     <p>🌴 <a href="https://www.google.com/maps/place/M%C3%A1laga/@36.7183199,-4.7782104,10z/data=!3m1!4b1!4m6!3m5!1s0xd7259c44fdb212d:0x6025dc92c9ca32cf!8m2!3d36.7178196!4d-4.425557!16s%2Fg%2F11b7c714d1?entry=ttu" target="_blank">Málaga, Spain</a></p>
 
 
-news: true # includes a list of news items
+news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
