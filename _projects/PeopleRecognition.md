@@ -11,7 +11,7 @@ category: fun
 
 ## Introduction
 
-The **PeopleRecognition** project aims to develop a comprehensive system for detecting and recognizing people in various environments. This project is built upon state-of-the-art computer vision techniques and leverages deep learning models to achieve high accuracy in face detection, facial recognition, and object detection tasks. The project is modular, allowing for easy integration of different functionalities depending on the use case, ranging from basic face detection to advanced real-time recognition systems. All the developmet is in this [github page](https://github.com/juanmagdev/PeopleRecognition/). 
+The **PeopleRecognition** project aims to develop a comprehensive system for detecting and recognizing people in various environments. This project is built upon state-of-the-art computer vision techniques and leverages deep learning models to achieve high accuracy in face detection, facial recognition, and object detection tasks. The project is modular, allowing for easy integration of different functionalities depending on the use case, ranging from basic face detection to advanced real-time recognition systems. All the developmet is in this [github page](https://github.com/juanmagdev/PeopleRecognition/).
 
 ## Objectives
 
@@ -58,4 +58,3 @@ In addition to deep learning, traditional computer vision techniques are also ut
 ## Conclusion
 
 The PeopleRecognition project is an ambitious attempt to create a versatile and robust system for detecting and recognizing people in various scenarios. Its modular design allows for easy customization and integration, making it suitable for a wide range of applications, from personal security to large-scale surveillance systems. By leveraging the latest advancements in computer vision and deep learning, the project aims to provide a reliable and efficient solution to the challenges of real-time recognition and detection.
-

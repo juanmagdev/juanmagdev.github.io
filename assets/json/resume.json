@@ -23,14 +23,15 @@
       "startDate": "2023-06-00",
       "endDate": "2024-03-03",
       "summary": "",
-      "highlights": ["Development of Lightning Web Components, such as account indicators with child accounts, integration with Slack and Jira, search features, modals, and more.",
-      "Integration of Salesforce with Jira, development of components for synchronization and comments via HTTP/webhooks.",
-      "Implementation of methods to support the internal API.",
-      "Creation of flows, custom objects, and fields.",
-      "Creation of reports and dashboards.",
-      "Implementation of comprehensive unit tests for each Apex controller, following best practices.",
-      "Improvement of efficiency and optimization of the company’s support website, allowing for more accurate results."
-    ]
+      "highlights": [
+        "Development of Lightning Web Components, such as account indicators with child accounts, integration with Slack and Jira, search features, modals, and more.",
+        "Integration of Salesforce with Jira, development of components for synchronization and comments via HTTP/webhooks.",
+        "Implementation of methods to support the internal API.",
+        "Creation of flows, custom objects, and fields.",
+        "Creation of reports and dashboards.",
+        "Implementation of comprehensive unit tests for each Apex controller, following best practices.",
+        "Improvement of efficiency and optimization of the company’s support website, allowing for more accurate results."
+      ]
     },
     {
       "name": "Freelancer",
@@ -39,7 +40,9 @@
       "startDate": "2021-03-00",
       "endDate": "2023-05-03",
       "summary": "",
-      "highlights": ["Tutored students in various subjects, including Mathematics for Economics and Business, Statistics and Probability, and Physics."]
+      "highlights": [
+        "Tutored students in various subjects, including Mathematics for Economics and Business, Statistics and Probability, and Physics."
+      ]
     }
   ],
   "education": [
@@ -83,75 +86,37 @@
       "name": "Mathematics",
       "level": "",
       "icon": "fa-solid fa-square-root-alt",
-      "keywords": [
-        "Mathematical Analysis",
-        "Algebra",
-        "Probability and Statistical Inference",
-        "Numerical Methods",
-        "Optimization"
-      ]
+      "keywords": ["Mathematical Analysis", "Algebra", "Probability and Statistical Inference", "Numerical Methods", "Optimization"]
     },
     {
       "name": "Front‑end",
       "level": "",
       "icon": "fa-solid fa-code",
-      "keywords": [
-        "React",
-        "HTML5",
-        "CSS",
-        "JavaScript"
-      ]
+      "keywords": ["React", "HTML5", "CSS", "JavaScript"]
     },
     {
       "name": "Programming",
       "level": "",
       "icon": "fa-solid fa-laptop-code",
-      "keywords": [
-        "Python (numpy, matplotlib, pyautogui, optimize, deap, pytorch)",
-        "Java",
-        "Apex",
-        "C",
-        "C++",
-        "R"
-      ]
+      "keywords": ["Python (numpy, matplotlib, pyautogui, optimize, deap, pytorch)", "Java", "Apex", "C", "C++", "R"]
     },
     {
       "name": "Others",
       "level": "",
       "icon": "fa-solid fa-cogs",
-      "keywords": [
-        "Linux",
-        "Salesforce",
-        "Git",
-        "Bitbucket",
-        "Jira",
-        "Tableau",
-        "Power BI",
-        "Excel",
-        "SCRUM"
-      ]
+      "keywords": ["Linux", "Salesforce", "Git", "Bitbucket", "Jira", "Tableau", "Power BI", "Excel", "SCRUM"]
     },
     {
       "name": "Databases",
       "level": "",
       "icon": "fa-solid fa-database",
-      "keywords": [
-        "MySQL",
-        "OracleSQL",
-        "MariaDB"
-      ]
+      "keywords": ["MySQL", "OracleSQL", "MariaDB"]
     },
     {
       "name": "Soft Skills",
       "level": "",
       "icon": "fa-solid fa-lightbulb",
-      "keywords": [
-        "Problem Solving",
-        "Self‑learning",
-        "Leadership",
-        "Critical Thinking",
-        "Team Collaboration"
-      ]
+      "keywords": ["Problem Solving", "Self‑learning", "Leadership", "Critical Thinking", "Team Collaboration"]
     }
   ],
   "languages": [
@@ -175,13 +140,7 @@
     {
       "name": "Computer Science",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Data Science",
-        "Data Analysis",
-        "Machine Learning",
-        "Optimization",
-        "Quantum Computing"
-      ]
+      "keywords": ["Data Science", "Data Analysis", "Machine Learning", "Optimization", "Quantum Computing"]
     }
   ],
   "projects": [
