@@ -7,7 +7,7 @@ importance: 2
 category: fun
 ---
 <div class="row mt-3">
-    <div class="col-12">
+    <div class="col-5">
         {% include figure.liquid loading="eager" path="assets/img/thinkpad-red-led-control/screenshot-extension.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
