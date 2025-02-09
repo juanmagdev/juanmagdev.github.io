@@ -8,7 +8,7 @@ category: fun
 ---
 <div class="row mt-3">
     <div class="col-5">
-        {% include figure.liquid loading="eager" path="assets/img/thinkpad-red-led-control/screenshot-extension.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/thinkpad-red-led-control/screenshot-extension.png" class="img-fluid rounded z-depth-1 mx-auto d-block" %}
     </div>
 </div>
 This GNOME Shell extension allows you to control the red LED light on the back of ThinkPad laptops. With this extension, you can toggle between different LED states such as:
