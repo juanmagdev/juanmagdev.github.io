@@ -6,8 +6,11 @@ img: assets/img/thinkpad-red-led-control/thinkpad-portada.jpg
 importance: 2
 category: fun
 ---
-
-# ThinkPad Red Led Extension for GNOME
+<div class="row mt-3">
+    <div class="col-12">
+        {% include figure.liquid loading="eager" path="assets/img/thinkpad-red-led-control/screenshot-extension.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 This GNOME Shell extension allows you to control the red LED light on the back of ThinkPad laptops. With this extension, you can toggle between different LED states such as:
 
 - **LED Off**
