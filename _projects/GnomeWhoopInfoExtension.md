@@ -96,7 +96,7 @@ Before the extension can display your WHOOP data, you must authenticate your acc
     </div>
 </div>
 
-## Importan considerations
+## Important considerations
 
 - **Authentication Required**: You must authenticate with WHOOP before metrics are displayed.
 - **Internet Connection**: The extension requires an active internet connection to fetch data.
