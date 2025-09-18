@@ -29,15 +29,14 @@ You can download directly from the [oficial store](https://extensions.gnome.org/
 
 ## Known Bugs
 
-- **UI Update on Cancel**: If a state is selected and then canceled, the interface updates to reflect the selection even though no action is taken.
-- **Cannot Read LED State**: Currently, the extension cannot read the current state of the LED, meaning the state might not always be accurately reflected in the UI.
 - **State Reset After Restart**: After a system reboot, the LED state is reset to the default (LED On).
 
 ## TODOs
 
-- **Support for Uppercase and Special Characters in Morse Code**: Currently, only lowercase letters and numbers are supported for Morse code. Uppercase letters and special characters need to be handled.
-- **Fix Known Bugs**: Resolve issues with UI state updates, reading LED state, and state resetting after a reboot.
+Reset
+
 - **Interface to Control Morse Code Blinking Speed**: Implement a user interface to allow users to customize the speed of the Morse code blinking.
+- ~~**Fix State After Restart**: Preserve the state after restart.
 
 ## How It Works
 
