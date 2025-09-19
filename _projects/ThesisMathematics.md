@@ -2,7 +2,6 @@
 layout: page
 title: Mathematics Thesis: Henstock–Kurzweil Integral
 description: My Bachelor Thesis (TFG) for the Mathematics degree at Universidad de Málaga, focused on the Henstock–Kurzweil integral.
-img: assets/img/thesis-mathematics/cover.jpg
 importance: 2
 category: academics
 ---
@@ -37,7 +36,7 @@ The complete thesis is structured as follows:
 - **Chapter 3: Convergence Theorems**  
   Study of uniform, monotone, and dominated convergence theorems. Introduction of $$\mathcal{P}$$-Cauchy sequences of functions and their use as a convergence criterion.
 
-- **Chapter 4: The classes $$AC*\delta$$ and $$ACG*\delta$$**  
+- **Chapter 4: The classes** $$AC\delta$$ **and** $$ACG\delta$$
   Definition of the function classes $$AC*\delta$$ (absolutely continuous on $$\delta$$-fine partitions) and $$ACG*\delta$$ (generalized $$\delta$$-absolute continuity), and their characterization as primitives of Henstock–Kurzweil integrable functions.
 
 ---
