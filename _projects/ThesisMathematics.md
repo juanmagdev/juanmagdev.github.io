@@ -7,7 +7,6 @@ importance: 2
 category: academics
 ---
 
-
   <p style="text-align: center; font-style: italic;">
   📄 <a href="/assets/pdf/Garcia_Delgado_Juan_Manuel_Grado_en_Matematicas.pdf" target="_blank">
   Download the full thesis (PDF)
@@ -72,32 +71,32 @@ The latter greatly extends the class of integrable functions by using measure th
 
 For example, there are differentiable functions whose derivative is **not** Lebesgue integrable. Consider:
 
-$$$$
+$$
 F(x)=
 \begin{cases}
 x^2\sin\!\left(\frac{1}{x^2}\right), & x\ne 0, \\
 0, & x = 0.
 \end{cases}
-$$$$
+$$
 
 Then $$F$$ is differentiable on $$\mathbb{R}$$ but
 
-$$$$
+$$
 F'(x)=
 \begin{cases}
 2x\sin\!\left(\frac{1}{x^2}\right)-\frac{2}{x}\cos\!\left(\frac{1}{x^2}\right), & x\ne 0, \\
 0, & x = 0,
 \end{cases}
-$$$$
+$$
 
 and $$F'\notin L^1([a,b])$$ for any interval containing $$0$$.  
 This seems paradoxical, as derivatives are the “natural” integrands for the Fundamental Theorem of Calculus.
 
 Another example is $$f(x)=\frac{\sin x}{x}$$: its improper Riemann integral over $$\mathbb{R}$$ converges (and equals $$\pi$$ using complex analysis), but its absolute value is not Lebesgue integrable:
 
-$$$$
+$$
 \int_{\mathbb{R}}\left|\frac{\sin x}{x}\right|\,dx = \infty.
-$$$$
+$$
 
 Such examples show that the Lebesgue integral, although very powerful, fails to integrate some “natural” functions. Moreover, classical rules like substitution or integration by parts—easy under Riemann—become more intricate under Lebesgue.
 
