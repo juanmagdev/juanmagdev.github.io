@@ -9,7 +9,6 @@ category: academics
 
 # Bachelor Thesis in Mathematics: Henstock–Kurzweil Integral
 
-
   <p style="text-align: center; font-style: italic;">
   📄 <a href="/assets/pdf/Garcia_Delgado_Juan_Manuel_Grado_en_Matematicas.pdf" target="_blank">
   Download the full thesis (PDF)
@@ -23,7 +22,7 @@ category: academics
 This page presents my **Bachelor Thesis (Trabajo de Fin de Grado** for the **Mathematics degree** at the [Universidad de Málaga](https://www.uma.es), Spain.  
 The thesis, written in Spanish, is titled:
 
-> **“La integral de Henstock–Kurzweil”**  
+> **“La integral de Henstock–Kurzweil”**
 
 It received a final grade of _9.8/10_ and was awarded _Matrícula de Honor_ (highest distinction).
 
@@ -40,15 +39,15 @@ The complete thesis is structured as follows:
 - **Chapter 3: Convergence Theorems**  
   Study of uniform, monotone, and dominated convergence theorems. Introduction of $\mathcal{P}$-Cauchy sequences of functions and their use as a convergence criterion.
 
-- **Chapter 4: The classes \(AC_\delta\) and \(ACG_\delta\)**  
-  Definition of the function classes \(AC_\delta\) (absolutely continuous on \(\delta\)-fine partitions) and \(ACG_\delta\) (generalized \(\delta\)-absolute continuity), and their characterization as primitives of Henstock–Kurzweil integrable functions.
+- **Chapter 4: The classes \(AC*\delta\) and \(ACG*\delta\)**  
+  Definition of the function classes \(AC*\delta\) (absolutely continuous on \(\delta\)-fine partitions) and \(ACG*\delta\) (generalized \(\delta\)-absolute continuity), and their characterization as primitives of Henstock–Kurzweil integrable functions.
 
 ---
 
-  ## Introduction
+## Introduction
 
-  At the beginning of the 20th century, the French mathematician Henri Léon Lebesgue introduced a new theory of integration that responded to the growing needs of mathematical analysis, greatly extending the scope of the Riemann integral.  
-  The Lebesgue integral made it possible to integrate much more general functions—such as the well-known Dirichlet function—and facilitated the formulation and proof of powerful theorems, especially those concerning the interchange of limit and integral. Throughout the 20th century, the Lebesgue integral became a central tool, largely replacing the Riemann integral in advanced analysis.
+At the beginning of the 20th century, the French mathematician Henri Léon Lebesgue introduced a new theory of integration that responded to the growing needs of mathematical analysis, greatly extending the scope of the Riemann integral.  
+ The Lebesgue integral made it possible to integrate much more general functions—such as the well-known Dirichlet function—and facilitated the formulation and proof of powerful theorems, especially those concerning the interchange of limit and integral. Throughout the 20th century, the Lebesgue integral became a central tool, largely replacing the Riemann integral in advanced analysis.
 
 However, the construction of the Lebesgue integral is considerably more involved than that of Riemann: it requires first building measure theory on the Borel sets of the real line, and only then defining the integral. Although powerful, this approach is technically demanding and less direct than the definition of the Riemann integral.
 
@@ -57,13 +56,12 @@ Despite its many advantages, the Lebesgue integral has certain limitations. It i
 To overcome these limitations, other integration theories arose—such as the Denjoy and Perron integrals—but their constructions are technically more complicated and less intuitive.
 
 Within this context, Henstock and Kurzweil developed an integral that surpasses some of the limitations of the Lebesgue integral while retaining a simple, elegant, Riemann-like definition. The Henstock–Kurzweil integral recovers the intuitive idea of Riemann sums while extending its scope considerably.
- 
+
 <div class="row mt-3">
   <div class="col-12 d-flex justify-content-center">
     {% include figure.liquid loading="eager" path="assets/img/thesis-mathematics/HK.jpeg" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
-
 
 ---
 
@@ -111,7 +109,7 @@ This allows integrating every derivative (even those not Lebesgue integrable) an
 
 ## Construction of the Henstock–Kurzweil Integral
 
-We now present the basic definitions, following mainly *The integrals of Lebesgue, Denjoy, Perron, and Henstock* by Gordon [1994].
+We now present the basic definitions, following mainly _The integrals of Lebesgue, Denjoy, Perron, and Henstock_ by Gordon [1994].
 
 **Definition (Gauge):**  
 Let \(I=[a,b]\). A **gauge** is a positive function \(\delta:I\to (0,\infty)\).
@@ -120,7 +118,7 @@ Let \(I=[a,b]\). A **gauge** is a positive function \(\delta:I\to (0,\infty)\).
 
 **Definition (Tagged interval subordinated to a gauge):**  
 A **tagged interval** is a pair \((\xi,[c,d])\) with \([c,d]\subseteq[a,b]\) and \(\xi\in[c,d]\).  
-It is said to be **\(\delta\)-fine** if 
+It is said to be **\(\delta\)-fine** if
 \[
 [c,d]\subseteq (\xi-\delta(\xi),\ \xi+\delta(\xi)).
 \]
@@ -128,7 +126,7 @@ It is said to be **\(\delta\)-fine** if
 ---
 
 **Definition (Tagged partition):**  
-A **tagged partition** \(\mathcal{P}=\{(\xi_i,[t_i,t_{i+1}]):0\le i\le n\}\) of \(I=[a,b]\) is a finite collection of pairwise disjoint subintervals covering \(I\).  
+A **tagged partition** \(\mathcal{P}=\{(\xi*i,[t_i,t*{i+1}]):0\le i\le n\}\) of \(I=[a,b]\) is a finite collection of pairwise disjoint subintervals covering \(I\).  
 It is **\(\delta\)-fine** if each tagged interval is \(\delta\)-fine.
 
 ---
@@ -139,16 +137,10 @@ For every gauge \(\delta\) on \(I=[a,b]\) there exists a \(\delta\)-fine tagged 
 ---
 
 **Definition (Riemann sum):**  
-Given \(f:I\to\mathbb{R}\) and a tagged partition \(\mathcal{P}=\{(\xi_i,[t_i,t_{i+1}])\}\):
+Given \(f:I\to\mathbb{R}\) and a tagged partition \(\mathcal{P}=\{(\xi*i,[t_i,t*{i+1}])\}\):
 \[
-\mathcal{S}(f,\mathcal{P}) = \sum_{i=0}^n f(\xi_i)(t_{i+1}-t_i).
+\mathcal{S}(f,\mathcal{P}) = \sum*{i=0}^n f(\xi_i)(t*{i+1}-t_i).
 \]
-
-<div class="row mt-3">
-  <div class="col-12 d-flex justify-content-center">
-    {% include figure.liquid loading="eager" path=assets/img/thesis-mathematics/riemann_sum.png"  class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
 
 ---
 
@@ -169,12 +161,12 @@ Every Riemann integrable function is also Henstock–Kurzweil integrable with th
 
 ## Academics
 
-- **Degree:** Mathematics (Double Degree in Mathematics and Computer Engineering)  
-- **Institution:** [Universidad de Málaga](https://www.uma.es)  
-- **Year:** 2025  
-- **Department:** Departamento de Análisis Matemático, Estadística e Investigación Operativa, y Matemática Aplicada  
-- **Area:** Mathematical Analysis  
-- **Type:** Bibliographic  
-- **Modality:** Individual  
-- **Pages (main content):** 56  
+- **Degree:** Mathematics (Double Degree in Mathematics and Computer Engineering)
+- **Institution:** [Universidad de Málaga](https://www.uma.es)
+- **Year:** 2025
+- **Department:** Departamento de Análisis Matemático, Estadística e Investigación Operativa, y Matemática Aplicada
+- **Area:** Mathematical Analysis
+- **Type:** Bibliographic
+- **Modality:** Individual
+- **Pages (main content):** 56
 - **Author:** Juan Manuel García Delgado
