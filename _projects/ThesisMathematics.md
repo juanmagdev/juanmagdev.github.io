@@ -2,6 +2,7 @@
 layout: page
 title: Mathematics Thesis. Henstock–Kurzweil Integral
 description: My Bachelor Thesis (TFG) for the Mathematics degree at Universidad de Málaga, focused on the Henstock–Kurzweil integral.
+img: assets/img/thesis-mathematics/cover.jpg
 importance: 2
 category: academics
 ---
@@ -16,7 +17,7 @@ category: academics
 
 ## About this work
 
-This page presents my **Bachelor Thesis (Trabajo de Fin de Grado** for the **Mathematics degree** at the [Universidad de Málaga](https://www.uma.es), Spain.  
+This page presents my **Bachelor Thesis (Trabajo de Fin de Grado)** for the **Mathematics degree** at the [Universidad de Málaga](https://www.uma.es), Spain.  
 The thesis, written in Spanish, is titled:
 
 > **“La integral de Henstock–Kurzweil”**
@@ -36,19 +37,18 @@ The complete thesis is structured as follows:
 - **Chapter 3: Convergence Theorems**  
   Study of uniform, monotone, and dominated convergence theorems. Introduction of $$\mathcal{P}$$-Cauchy sequences of functions and their use as a convergence criterion.
 
-- **Chapter 4: The classes** $$AC\delta$$ **and** $$ACG\delta$$
-  Definition of the function classes $$AC*\delta$$ (absolutely continuous on $$\delta$$-fine partitions) and $$ACG*\delta$$ (generalized $$\delta$$-absolute continuity), and their characterization as primitives of Henstock–Kurzweil integrable functions.
+- **Chapter 4: The classes** $$AC_\delta$$ **and** $$ACG_\delta$$
+  Definition of the function classes $$AC_\delta$$ (absolutely continuous on $$\delta$$-fine partitions) and $$ACG_\delta$$ (generalized $$\delta$$-absolute continuity), and their characterization as primitives of Henstock–Kurzweil integrable functions.
 
 ---
 
 ## Introduction
 
-At the beginning of the 20th century, the French mathematician Henri Léon Lebesgue introduced a new theory of integration that responded to the growing needs of mathematical analysis, greatly extending the scope of the Riemann integral.  
- The Lebesgue integral made it possible to integrate much more general functions—such as the well-known Dirichlet function—and facilitated the formulation and proof of powerful theorems, especially those concerning the interchange of limit and integral. Throughout the 20th century, the Lebesgue integral became a central tool, largely replacing the Riemann integral in advanced analysis.
+At the beginning of the 20th century, the French mathematician Henri Léon Lebesgue introduced a new theory of integration that responded to the growing needs of mathematical analysis, greatly extending the scope of the Riemann integral. The Lebesgue integral made it possible to integrate much more general functions—such as the well-known Dirichlet function—and facilitated the formulation and proof of powerful theorems, especially those concerning the interchange of limit and integral. Throughout the 20th century, the Lebesgue integral became a central tool, largely replacing the Riemann integral in advanced analysis.
 
 However, the construction of the Lebesgue integral is considerably more involved than that of Riemann: it requires first building measure theory on the Borel sets of the real line, and only then defining the integral. Although powerful, this approach is technically demanding and less direct than the definition of the Riemann integral.
 
-Despite its many advantages, the Lebesgue integral has certain limitations. It is absolutely integrable: a function $$f$$ is Lebesgue integrable if and only if $$|f|$$ is also integrable. This condition excludes some interesting functions. Moreover, the connection with differentiation is less natural: to apply the Fundamental Theorem of Calculus one needs monotone, bounded variation, or otherwise restricted functions.
+Despite its many advantages, the Lebesgue integral has certain limitations. It is absolutely integrable: a function $$ f $$ is Lebesgue integrable if and only if $$ |f| $$ is also integrable. This condition excludes some interesting functions. Moreover, the connection with differentiation is less natural: to apply the Fundamental Theorem of Calculus one needs monotone, bounded variation, or otherwise restricted functions.
 
 To overcome these limitations, other integration theories arose—such as the Denjoy and Perron integrals—but their constructions are technically more complicated and less intuitive.
 
@@ -124,7 +124,7 @@ $$
 ---
 
 **Definition (Tagged partition):**  
-A **tagged partition** $$ \mathcal{P}=\{(\xi*i,[t_i,t*{i+1}]):0\le i\le n\} $$ of $$ I=[a,b] $$ is a finite collection of pairwise disjoint subintervals covering $$ I $$.  
+A **tagged partition** $$ \mathcal{P}=\{(\xi_i,[t_i,t_{i+1}]):0\le i\le n\} $$ of $$ I=[a,b] $$ is a finite collection of pairwise disjoint subintervals covering $$ I $$.  
 It is $$\delta$$-fine if each tagged interval is $$ \delta $$-fine.
 
 ---
@@ -135,10 +135,10 @@ For every gauge $$ \delta $$ on $$ I=[a,b] $$ there exists a $$ \delta $$-fine t
 ---
 
 **Definition (Riemann sum):**  
-Given $$ f:I\to\mathbb{R} $$ and a tagged partition $$ \mathcal{P}=\{(\xi*i,[t_i,t*{i+1}])\} $$:
+Given $$ f:I\to\mathbb{R} $$ and a tagged partition $$ \mathcal{P}=\{(\xi_i,[t_i,t_{i+1}])\} $$:
 
 $$
-\mathcal{S}(f,\mathcal{P}) = \sum*{i=0}^n f(\xi_i)(t*{i+1}-t_i).
+\mathcal{S}(f,\mathcal{P}) = \sum_{i=0}^n f(\xi_i)(t_{i+1}-t_i).
 $$
 
 ---
