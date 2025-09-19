@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mathematics Thesis: Henstock–Kurzweil Integral
+title: Mathematics Thesis. Henstock–Kurzweil Integral
 description: My Bachelor Thesis (TFG) for the Mathematics degree at Universidad de Málaga, focused on the Henstock–Kurzweil integral.
 importance: 2
 category: academics
