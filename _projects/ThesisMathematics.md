@@ -109,48 +109,52 @@ This allows integrating every derivative (even those not Lebesgue integrable) an
 We now present the basic definitions, following mainly _The integrals of Lebesgue, Denjoy, Perron, and Henstock_ by Gordon [1994].
 
 **Definition (Gauge):**  
-Let $$I=[a,b]$$. A **gauge** is a positive function $$\delta:I\to (0,\infty)$$.
+Let $$ I=[a,b] $$. A **gauge** is a positive function $$ \delta:I\to (0,\infty) $$.
 
 ---
 
 **Definition (Tagged interval subordinated to a gauge):**  
-A **tagged interval** is a pair $$(\xi,[c,d])$$ with $$[c,d]\subseteq[a,b]$$ and $$\xi\in[c,d]$$.  
-It is said to be **$$\delta$$-fine** if
-\[
+A **tagged interval** is a pair $$ (\xi,[c,d]) $$ with $$ [c,d]\subseteq[a,b] $$ and $$ \xi\in[c,d] $$.  
+It is said to be $$ \delta $$-fine if
+
+$$
 [c,d]\subseteq (\xi-\delta(\xi),\ \xi+\delta(\xi)).
-\]
+$$
 
 ---
 
 **Definition (Tagged partition):**  
-A **tagged partition** $$\mathcal{P}=\{(\xi*i,[t_i,t*{i+1}]):0\le i\le n\}$$ of $$I=[a,b]$$ is a finite collection of pairwise disjoint subintervals covering $$I$$.  
-It is **$$\delta$$-fine** if each tagged interval is $$\delta$$-fine.
+A **tagged partition** $$ \mathcal{P}=\{(\xi*i,[t_i,t*{i+1}]):0\le i\le n\} $$ of $$ I=[a,b] $$ is a finite collection of pairwise disjoint subintervals covering $$ I $$.  
+It is $$\delta$$-fine if each tagged interval is $$ \delta $$-fine.
 
 ---
 
 **Lemma (Cousin):**  
-For every gauge $$\delta$$ on $$I=[a,b]$$ there exists a $$\delta$$-fine tagged partition $$\mathcal{P}$$ of $$I$$.
+For every gauge $$ \delta $$ on $$ I=[a,b] $$ there exists a $$ \delta $$-fine tagged partition $$ \mathcal{P} $$ of $$ I $$.
 
 ---
 
 **Definition (Riemann sum):**  
-Given $$f:I\to\mathbb{R}$$ and a tagged partition $$\mathcal{P}=\{(\xi*i,[t_i,t*{i+1}])\}$$:
-\[
+Given $$ f:I\to\mathbb{R} $$ and a tagged partition $$ \mathcal{P}=\{(\xi*i,[t_i,t*{i+1}])\} $$:
+
+$$
 \mathcal{S}(f,\mathcal{P}) = \sum*{i=0}^n f(\xi_i)(t*{i+1}-t_i).
-\]
+$$
 
 ---
 
 **Definition (Henstock–Kurzweil integral):**  
-We say that $$f:I\to\mathbb{R}$$ is **Henstock–Kurzweil integrable** on $$I$$ with integral $$L$$ if for every $$\varepsilon>0$$ there exists a gauge $$\delta$$ such that for every $$\delta$$-fine tagged partition $$\mathcal{P}$$:
-\[
+We say that $$ f:I\to\mathbb{R} $$ is **Henstock–Kurzweil integrable** on $$ I $$ with integral $$ L $$ if for every $$ \varepsilon>0 $$ there exists a gauge $$ \delta $$ such that for every $$ \delta $$-fine tagged partition $$ \mathcal{P} $$:
+
+$$
 \big|\mathcal{S}(f,\mathcal{P}) - L\big| < \varepsilon.
-\]
+$$
 
 We write
-\[
+
+$$
 (H)\int_a^b f = L.
-\]
+$$
 
 Every Riemann integrable function is also Henstock–Kurzweil integrable with the same value, so the Henstock Kurzweil integral strictly extends the Riemann one.
 
