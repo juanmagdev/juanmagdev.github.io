@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mathematics Thesis. Henstock–Kurzweil Integral
+title: Henstock–Kurzweil Integral
 description: My Bachelor Thesis (TFG) for the Mathematics degree at Universidad de Málaga, focused on the Henstock–Kurzweil integral.
 img: assets/img/thesis-mathematics/cover.png
 importance: 2
@@ -54,7 +54,7 @@ To overcome these limitations, other integration theories arose—such as the De
 
 Within this context, Henstock and Kurzweil developed an integral that surpasses some of the limitations of the Lebesgue integral while retaining a simple, elegant, Riemann-like definition. The Henstock–Kurzweil integral recovers the intuitive idea of Riemann sums while extending its scope considerably.
 
-<div class="row mt-3">
+<div class="row mt-2">
   <div class="col-12 d-flex justify-content-center">
     {% include figure.liquid loading="eager" path="assets/img/thesis-mathematics/HK.jpeg" class="img-fluid rounded z-depth-1" %}
   </div>
