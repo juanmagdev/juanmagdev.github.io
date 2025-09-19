@@ -2,7 +2,7 @@
 layout: page
 title: Mathematics Thesis. Henstock–Kurzweil Integral
 description: My Bachelor Thesis (TFG) for the Mathematics degree at Universidad de Málaga, focused on the Henstock–Kurzweil integral.
-img: assets/img/thesis-mathematics/cover.jpg
+img: assets/img/thesis-mathematics/cover.png
 importance: 2
 category: academics
 ---
@@ -48,7 +48,7 @@ At the beginning of the 20th century, the French mathematician Henri Léon Lebes
 
 However, the construction of the Lebesgue integral is considerably more involved than that of Riemann: it requires first building measure theory on the Borel sets of the real line, and only then defining the integral. Although powerful, this approach is technically demanding and less direct than the definition of the Riemann integral.
 
-Despite its many advantages, the Lebesgue integral has certain limitations. It is absolutely integrable: a function $$ f $$ is Lebesgue integrable if and only if $$ |f| $$ is also integrable. This condition excludes some interesting functions. Moreover, the connection with differentiation is less natural: to apply the Fundamental Theorem of Calculus one needs monotone, bounded variation, or otherwise restricted functions.
+Despite its many advantages, the Lebesgue integral has certain limitations. It is absolutely integrable: a function $$ f $$ is Lebesgue integrable if and only if $$ \mid f \mid $$ is also integrable. This condition excludes some interesting functions. Moreover, the connection with differentiation is less natural: to apply the Fundamental Theorem of Calculus one needs monotone, bounded variation, or otherwise restricted functions.
 
 To overcome these limitations, other integration theories arose—such as the Denjoy and Perron integrals—but their constructions are technically more complicated and less intuitive.
 
