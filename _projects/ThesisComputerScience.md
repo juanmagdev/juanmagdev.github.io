@@ -1,8 +1,7 @@
 ---
 layout: page
-title: Artificial Intelligence Models for Energy Optimization
-description: My Bachelor Thesis (TFG) for the Computer Engineering degree at Universidad de Málaga, focused on Artificial Intelligence models for energy self-consumption optimization.
-img: assets/img/thesis-computer-science/cover.png
+title: Artificial Intelligence for Energy Optimization
+description: My Bachelor Thesis for the Computer Science
 importance: 2
 category: academics
 ---
@@ -22,7 +21,7 @@ The thesis, written in Spanish, is titled:
 
 > **“Implementación de Modelos de Inteligencia Artificial para Optimizar el Autoconsumo Energético y Minimizar Vertidos a la Red”**
 
-t received a final grade of _9.8/10_ and was awarded _Matrícula de Honor_ (highest distinction). It was defended in July 2024 and developed under the supervision of José del Campo Ávila and Rafael Morales Bueno at the Departamento de Lenguajes y Ciencias de la Computación.
+t received a final grade of _10/10_ and was awarded _Matrícula de Honor_ (highest distinction). It was defended in July 2024 and developed under the supervision of José del Campo Ávila and Rafael Morales Bueno at the Departamento de Lenguajes y Ciencias de la Computación.
 
 The primary goal of this work is the development and implementation of optimization models that dynamically calculate energy distribution coefficients in shared photovoltaic systems. These models aim to **minimize energy injection into the grid** (grid waste) and **improve self-consumption efficiency** in compliance with the Spanish Royal Decree 244/2019.
 
