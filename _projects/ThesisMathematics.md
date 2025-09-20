@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Henstock–Kurzweil Integral
-description: My Bachelor Thesis (TFG) for the Mathematics degree at Universidad de Málaga, focused on the Henstock–Kurzweil integral.
+description: My Bachelor Thesis for the Mathematics degree at Universidad de Málaga, focused on the Henstock–Kurzweil integral.
 img: assets/img/thesis-mathematics/cover.png
 importance: 2
 category: academics
@@ -20,7 +20,7 @@ category: academics
 This page presents my **Bachelor Thesis (Trabajo de Fin de Grado)** for the **Mathematics degree** at the [Universidad de Málaga](https://www.uma.es), Spain.  
 The thesis, written in Spanish, is titled:
 
-> **“La integral de Henstock–Kurzweil”**
+> **“Integral de Henstock–Kurzweil”**
 
 It received a final grade of _9.8/10_ and was awarded _Matrícula de Honor_ (highest distinction).
 

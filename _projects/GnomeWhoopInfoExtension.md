@@ -13,17 +13,17 @@ category: fun
     </div>
 </div>
 
-<div class="row mt-2">
-    <div class="col-8 offset-2 d-flex justify-content-center">
-        {% include figure.liquid loading="eager" path="assets/img/gnome-whoop-info/image-2.png" class="img-fluid rounded" style="max-width:400px;" %}
-    </div>
-</div>
-
 **GNOME Whoop Info** is a lightweight GNOME Shell extension that connects to your [WHOOP](https://www.whoop.com/) account and displays your most important daily health metrics directly in the top bar of your GNOME desktop.
 
 With this extension, you can quickly check your **recovery**, **sleep**, and **strain** status without needing to check your phone.
 
 You can find the source code in my [GitHub repository](https://github.com/juanmagdev/gnome-whoop-extension).
+
+<div class="row mt-2">
+    <div class="col-8 offset-2 d-flex justify-content-center">
+        {% include figure.liquid loading="eager" path="assets/img/gnome-whoop-info/image-2.png" class="img-fluid rounded" style="max-width:300px;" %}
+    </div>
+</div>
 
 ---
 
