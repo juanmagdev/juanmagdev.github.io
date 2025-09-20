@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Artificial Intelligence Models for Energy Optimization
-description: My Bachelor Thesis (TFG) for the Computer Science
+description: My Bachelor Thesis (TFG) for the Computer Science.
 img: assets/img/thesis-computer-science/cover.png
 importance: 2
 category: academics
