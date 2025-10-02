@@ -23,10 +23,10 @@ Then came the moment we had all been waiting for: receiving our diplomas and sas
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1-graduacion.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/1-graduacion.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1-graduacion-0.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/1-graduacion-0.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
